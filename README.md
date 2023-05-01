@@ -1,12 +1,18 @@
 # DATA 245 Project
 # Building SDG Classifier: Monitor the Process of the SDGs using Machine Learning
 ![](images/SDGs.png)
-**<center>Group member:</center>** 
+**<center>Group member:</center>**   
+
+
 <center>Angel Ren 016729557</center>
-<center>Bertha Tam 012313600  </center>
-<center>Johnny Qiu 016237780  </center>
-<center>Manyu Zhang 016718858  </center>
-<center>Yuan Pan 016102138</center>
+
+<center>Bertha Tam 012313600</center>
+
+<center>Johnny Qiu 016237780</center>
+
+<center>Manyu Zhang 016718858</center>
+
+<center>Yuan Pan 016102138 </center>
 
 
 ***
